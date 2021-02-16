@@ -1,0 +1,4 @@
+// server/src/schema.graphql
+type Query {
+  test: String
+}
